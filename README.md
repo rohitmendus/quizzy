@@ -1,2 +1,2 @@
 # Quizzy
-This a simple quiz app built in python.
+This is a simple quiz app built in python.
